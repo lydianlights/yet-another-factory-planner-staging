@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/css/main.cd4b3bab.chunk.css",
-    "main.js": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/main.54b60f66.chunk.js",
-    "main.js.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/main.54b60f66.chunk.js.map",
+    "main.js": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/main.e8be1603.chunk.js",
+    "main.js.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/main.e8be1603.chunk.js.map",
     "runtime-main.js": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/runtime-main.3529c7fb.js",
     "runtime-main.js.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/runtime-main.3529c7fb.js.map",
-    "static/js/2.657091fe.chunk.js": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.657091fe.chunk.js",
-    "static/js/2.657091fe.chunk.js.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.657091fe.chunk.js.map",
+    "static/js/2.436529a7.chunk.js": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.436529a7.chunk.js",
+    "static/js/2.436529a7.chunk.js.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.436529a7.chunk.js.map",
     "index.html": "https://lydianlights.github.io/yet-another-factory-planner-staging/index.html",
     "static/css/main.cd4b3bab.chunk.css.map": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/css/main.cd4b3bab.chunk.css.map",
-    "static/js/2.657091fe.chunk.js.LICENSE.txt": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.657091fe.chunk.js.LICENSE.txt",
+    "static/js/2.436529a7.chunk.js.LICENSE.txt": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/js/2.436529a7.chunk.js.LICENSE.txt",
     "static/media/satisfactory_logo_full_color_small.da5e9783.png": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/media/satisfactory_logo_full_color_small.da5e9783.png",
     "static/media/stripe-bg.ddc4de7e.png": "https://lydianlights.github.io/yet-another-factory-planner-staging/static/media/stripe-bg.ddc4de7e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3529c7fb.js",
-    "static/js/2.657091fe.chunk.js",
+    "static/js/2.436529a7.chunk.js",
     "static/css/main.cd4b3bab.chunk.css",
-    "static/js/main.54b60f66.chunk.js"
+    "static/js/main.e8be1603.chunk.js"
   ]
 }
